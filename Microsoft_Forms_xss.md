@@ -14,9 +14,8 @@ Let's explore the mystery of 3 different stored XSS vectors I found in the same 
 
 
 
-
-https://user-images.githubusercontent.com/50178939/218266242-96b62236-eb65-450e-80e2-0bddcd7664f4.mp4
-
+<video src="https://user-images.githubusercontent.com/50178939/191971350-2677f80c-03cd-42f7-915e-ffa361fad0f0.mp4" controls="controls" style="max-width: 730px;">
+	</video>
 
 
 
