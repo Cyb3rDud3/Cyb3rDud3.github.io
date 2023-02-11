@@ -1,3 +1,9 @@
+---
+
+layout: page
+title: "Microsoft Forms Stored XSS"
+permalink: /BugBounty/Microsoft_Forms_Stored_XSS
+---
 
 ## 8 Lines of code, 3 different stored XSS bugs in Microsoft Forms
 
