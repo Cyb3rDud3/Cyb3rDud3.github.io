@@ -7,7 +7,10 @@ Let's explore the mystery of 3 different stored XSS vectors I found in the same 
    
 
 
-https://user-images.githubusercontent.com/50178939/218260169-d010e729-ccd1-44a2-a508-2ff2709ecf11.mp4
+
+
+https://user-images.githubusercontent.com/50178939/218266242-96b62236-eb65-450e-80e2-0bddcd7664f4.mp4
+
 
 
 
